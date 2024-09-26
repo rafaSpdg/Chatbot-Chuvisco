@@ -1,0 +1,14 @@
+-> Run bot locally:
+    1. Open terminal
+    2. run command python 'arquivo'.py
+    
+-> Installation:
+    1. python
+    
+    
+    PONTOS A CONFIRMAR:
+-> verificar se o comando /participar pode ser usado num texto escrito pelo admin, e posto disponivel no grupo geral
+
+-> remover vip automaticamente
+
+-> CANAL VIP ID 
